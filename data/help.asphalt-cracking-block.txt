@@ -1,0 +1,15 @@
+Block cracks are interconnected cracks that divide the
+pavement into approximately rectangular pieces. The blocks
+may range in size from approximately 1 by 1 foot to 10 by
+10 feet (0.3 by 0.3 meters to 3 by 3 meters). Block cracking
+is caused mainly by shrinkage of the asphalt concrete (AC)
+and daily temperature cycling (which results in daily stress/
+strain cycling). It is not load associated. The occurrence
+of block cracking usually indicates that the asphalt has
+hardened significantly. Block cracking normally occurs over
+a large proportion of pavement area but sometimes will
+occur in non-traffic areas. This type of distress differs from
+alligator cracking in that alligator cracks form smaller, multisided
+pieces with sharp angles. Also, unlike block cracks,
+alligator cracks are caused by repeated traffic loadings and,
+therefore, are located only in traffic areas (i.e., wheel paths). 

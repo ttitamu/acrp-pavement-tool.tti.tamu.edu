@@ -1,0 +1,599 @@
+State,StateAbbreviation,County,WetDry,FreezeNoFreeze,WetDry2,FreezeNoFreeze2
+Alabama,AL,,Wet,NoFreeze
+Alaska,AK,,Dry,Freeze,Wet,Freeze
+Arizona,AZ,Apache,Dry,Freeze
+,AZ,Cochise,Dry,NoFreeze
+,AZ,Coconino,Dry,Freeze
+,AZ,Gila,Dry,NoFreeze
+,AZ,Graham,Dry,NoFreeze
+,AZ,Greenlee,Dry,NoFreeze
+,AZ,La Paz,Dry,NoFreeze
+,AZ,Maricopa,Dry,NoFreeze
+,AZ,Mohave,Dry,NoFreeze
+,AZ,Navajo,Dry,Freeze
+,AZ,Pima,Dry,NoFreeze
+,AZ,Pinal,Dry,NoFreeze
+,AZ,Santa Cruz,Dry,NoFreeze
+,AZ,Yavapai,Dry,NoFreeze
+,AZ,Yuma,Dry,NoFreeze
+Arkansas,AR,,Wet,NoFreeze
+California,CA,Alameda,Dry,NoFreeze
+,CA,Alpine,Dry,Freeze
+,CA,Amador,Dry,Freeze
+,CA,Butte,Dry,Freeze
+,CA,Calaveras,Dry,Freeze
+,CA,Colusa,Dry,Freeze
+,CA,Contra Costa,Dry,NoFreeze
+,CA,Del Norte,Wet,NoFreeze
+,CA,El Dorado,Dry,Freeze
+,CA,Fresno,Dry,NoFreeze
+,CA,Glenn,Dry,Freeze
+,CA,Humboldt,Wet,NoFreeze
+,CA,Imperial,Dry,NoFreeze
+,CA,Inyo,Dry,Freeze
+,CA,Kern,Dry,NoFreeze
+,CA,Kings,Dry,NoFreeze
+,CA,Lake,Dry,NoFreeze
+,CA,Lassen,Dry,Freeze
+,CA,Los Angeles,Dry,NoFreeze
+,CA,Madera,Dry,Freeze
+,CA,Marin,Dry,NoFreeze
+,CA,Mariposa,Dry,Freeze
+,CA,Mendocino,Dry,NoFreeze
+,CA,Merced,Dry,NoFreeze
+,CA,Modoc,Dry,Freeze
+,CA,Mono,Dry,Freeze
+,CA,Monterey,Dry,NoFreeze
+,CA,Napa,Dry,NoFreeze
+,CA,Nevada,Dry,Freeze
+,CA,Orange,Dry,NoFreeze
+,CA,Placer,Dry,Freeze
+,CA,Plumas,Dry,Freeze
+,CA,Riverside,Dry,NoFreeze
+,CA,Sacramento,Dry,NoFreeze
+,CA,San Benito,Dry,NoFreeze
+,CA,San Bernardino,Dry,NoFreeze
+,CA,San Diego,Dry,NoFreeze
+,CA,San Francisco,Dry,NoFreeze
+,CA,San Joaquin,Dry,NoFreeze
+,CA,San Luis Obispo,Dry,NoFreeze
+,CA,San Mateo,Dry,NoFreeze
+,CA,Santa Barbara,Dry,NoFreeze
+,CA,Santa Clara,Dry,NoFreeze
+,CA,Santa Cruz,Dry,NoFreeze
+,CA,Shasta,Dry,Freeze
+,CA,Sierra,Dry,Freeze
+,CA,Siskiyou,Dry,Freeze
+,CA,Solano,Dry,NoFreeze
+,CA,Sonoma,Dry,NoFreeze
+,CA,Stanislaus,Dry,NoFreeze
+,CA,Sutter,Dry,Freeze
+,CA,Tehama,Dry,Freeze
+,CA,Trinity,Dry,Freeze
+,CA,Tulare,Dry,Freeze
+,CA,Tuolumne,Dry,Freeze
+,CA,Ventura,Dry,NoFreeze
+,CA,Yolo,Dry,Freeze
+,CA,Yuba,Dry,Freeze
+Colorado,CO,,Dry,Freeze
+Connecticut,CT,,Wet,Freeze
+Delaware,DE,,Wet,Freeze
+Florida,FL,,Wet,NoFreeze
+Georgia,GA,,Wet,NoFreeze
+Hawaii,HI,,Wet,NoFreeze
+Idaho,ID,,Dry,Freeze
+Illinois,IL,,Wet,Freeze
+Indiana,IN,,Wet,Freeze
+Iowa,IA,,Wet,Freeze
+Kansas,KS,,Dry,Freeze
+Kentucky,KY,,Wet,Freeze
+Louisiana,LA,,Wet,NoFreeze
+Maine,ME,,Wet,Freeze
+Maryland,MD,,Wet,Freeze
+Massachusetts,MA,,Wet,Freeze
+Michigan,MI,,Wet,Freeze
+Minnesota,MN,,Wet,Freeze
+Mississippi,MS,,Wet,NoFreeze
+Missouri,MO,,Wet,Freeze
+Montana,MT,,Dry,Freeze
+Nebraska,NE,,Dry,Freeze
+Nevada,NV,Churchill,Dry,Freeze
+,NV,Clark,Dry,NoFreeze
+,NV,Douglas,Dry,Freeze
+,NV,Elko,Dry,Freeze
+,NV,Esmeralda,Dry,Freeze
+,NV,Eureka,Dry,Freeze
+,NV,Humboldt,Dry,Freeze
+,NV,Lander,Dry,Freeze
+,NV,Lincoln,Dry,Freeze
+,NV,Lyon,Dry,Freeze
+,NV,Mineral,Dry,Freeze
+,NV,Nye,Dry,Freeze
+,NV,Pershing,Dry,Freeze
+,NV,Storey,Dry,Freeze
+,NV,Washoe,Dry,Freeze
+,NV,White Pine,Dry,Freeze
+New Hampshire,NH,,Wet,Freeze
+New Jersey,NJ,,Wet,Freeze
+New Mexico,NM,Bernalillo,Dry,NoFreeze
+,NM,Catron,Dry,NoFreeze
+,NM,Chaves,Dry,NoFreeze
+,NM,Cibola,Dry,NoFreeze
+,NM,Colfax,Dry,Freeze
+,NM,Curry,Dry,NoFreeze
+,NM,De Baca,Dry,NoFreeze
+,NM,Doa Ana,Dry,NoFreeze
+,NM,Eddy,Dry,NoFreeze
+,NM,Grant,Dry,NoFreeze
+,NM,Guadalupe,Dry,NoFreeze
+,NM,Harding,Dry,NoFreeze
+,NM,Hidalgo,Dry,NoFreeze
+,NM,Lea,Dry,NoFreeze
+,NM,Lincoln,Dry,NoFreeze
+,NM,Los Alamos,Dry,Freeze
+,NM,Luna,Dry,NoFreeze
+,NM,McKinley,Dry,Freeze
+,NM,Mora,Dry,Freeze
+,NM,Otero,Dry,NoFreeze
+,NM,Quay,Dry,NoFreeze
+,NM,Rio Arriba,Dry,Freeze
+,NM,Roosevelt,Dry,NoFreeze
+,NM,San Juan,Dry,Freeze
+,NM,San Miguel,Dry,NoFreeze
+,NM,Sandoval,Dry,NoFreeze
+,NM,Dona Ana,Dry,NoFreeze
+,NM,Santa Fe,Dry,NoFreeze
+,NM,Sierra,Dry,NoFreeze
+,NM,Socorro,Dry,NoFreeze
+,NM,Taos,Dry,Freeze
+,NM,Torrance,Dry,NoFreeze
+,NM,Union,Dry,NoFreeze
+,NM,Valencia,Dry,NoFreeze
+New York,NY,,Wet,Freeze
+North Carolina,NC,,Wet,NoFreeze
+North Dakota,ND,,Dry,Freeze
+Ohio,OH,,Wet,Freeze
+Oklahoma,OK,Adair,Wet,NoFreeze
+,,Alfalfa,Wet,NoFreeze
+,,Atoka,Wet,NoFreeze
+,,Beaver,Dry,NoFreeze
+,,Beckham,Dry,NoFreeze
+,,Blaine,Wet,NoFreeze
+,,Bryan,Wet,NoFreeze
+,,Caddo,Wet,NoFreeze
+,,Canadian,Wet,NoFreeze
+,,Carter,Wet,NoFreeze
+,,Cherokee,Wet,NoFreeze
+,,Choctaw,Wet,NoFreeze
+,,Cimarron,Dry,NoFreeze
+,,Cleveland,Wet,NoFreeze
+,,Coal,Wet,NoFreeze
+,,Comanche,Wet,NoFreeze
+,,Cotton,Wet,NoFreeze
+,,Craig,Wet,NoFreeze
+,,Creek,Wet,NoFreeze
+,,Custer,Wet,NoFreeze
+,,Delaware,Wet,NoFreeze
+,,Dewey,Wet,NoFreeze
+,,Ellis,Dry,NoFreeze
+,,Garfield,Wet,NoFreeze
+,,Garvin,Wet,NoFreeze
+,,Grady,Wet,NoFreeze
+,,Grant,Wet,NoFreeze
+,,Greer,Dry,NoFreeze
+,,Harmon,Dry,NoFreeze
+,,Harper,Dry,NoFreeze
+,,Haskell,Wet,NoFreeze
+,,Hughes,Wet,NoFreeze
+,,Jackson,Dry,NoFreeze
+,,Jefferson,Wet,NoFreeze
+,,Johnston,Wet,NoFreeze
+,,Kay,Wet,NoFreeze
+,,Kingfisher,Wet,NoFreeze
+,,Kiowa,Wet,NoFreeze
+,,Latimer,Wet,NoFreeze
+,,LeFlore,Wet,NoFreeze
+,,Lincoln,Wet,NoFreeze
+,,Logan,Wet,NoFreeze
+,,Love,Wet,NoFreeze
+,,McClain,Wet,NoFreeze
+,,McCurtain,Wet,NoFreeze
+,,McIntosh,Wet,NoFreeze
+,,Major,Wet,NoFreeze
+,,Marshall,Wet,NoFreeze
+,,Mayes,Wet,NoFreeze
+,,Murray,Wet,NoFreeze
+,,Muskogee,Wet,NoFreeze
+,,Noble,Wet,NoFreeze
+,,Nowata,Wet,NoFreeze
+,,Okfuskee,Wet,NoFreeze
+,,Oklahoma,Wet,NoFreeze
+,,Okmulgee,Wet,NoFreeze
+,,Osage,Wet,NoFreeze
+,,Ottawa,Wet,NoFreeze
+,,Pawnee,Wet,NoFreeze
+,,Payne,Wet,NoFreeze
+,,Pittsburg,Wet,NoFreeze
+,,Pontotoc,Wet,NoFreeze
+,,Pottawatomie,Wet,NoFreeze
+,,Pushmataha,Wet,NoFreeze
+,,Roger Mills,Dry,NoFreeze
+,,Rogers,Wet,NoFreeze
+,,Seminole,Wet,NoFreeze
+,,Sequoyah,Wet,NoFreeze
+,,Stephens,Wet,NoFreeze
+,,Texas,Dry,NoFreeze
+,,Tillman,Wet,NoFreeze
+,,Tulsa,Wet,NoFreeze
+,,Wagoner,Wet,NoFreeze
+,,Washington,Wet,NoFreeze
+,,Washita,Wet,NoFreeze
+,,Woods,Wet,NoFreeze
+,,Woodward,Wet,NoFreeze
+Oregon,OR,Baker,Dry,Freeze
+,,Benton,Wet,NoFreeze
+,,Clackamas,Dry,Freeze
+,,Clatsop,Wet,NoFreeze
+,,Columbia,Wet,NoFreeze
+,,Coos,Wet,NoFreeze
+,,Crook,Dry,Freeze
+,,Curry,Wet,NoFreeze
+,,Deschutes,Dry,Freeze
+,,Douglas,Dry,Freeze
+,,Gilliam,Dry,Freeze
+,,Grant,Dry,Freeze
+,,Harney,Dry,Freeze
+,,Hood River,Dry,Freeze
+,,Jackson,Dry,Freeze
+,,Jefferson,Dry,Freeze
+,,Josephine,Dry,Freeze
+,,Klamath,Dry,Freeze
+,,Lake,Dry,Freeze
+,,Lane,Dry,Freeze
+,,Lincoln,Wet,NoFreeze
+,,Linn,Dry,Freeze
+,,Malheur,Dry,Freeze
+,,Marion,Dry,Freeze,Wet,NoFreeze
+,,Morrow,Dry,Freeze
+,,Multnomah,Dry,Freeze
+,,Polk,Wet,NoFreeze
+,,Sherman,Dry,Freeze
+,,Tillamook,Wet,NoFreeze
+,,Umatilla,Dry,Freeze
+,,Union,Dry,Freeze
+,,Wallowa,Dry,Freeze
+,,Wasco,Dry,Freeze
+,,Washington,Wet,NoFreeze
+,,Wheeler,Dry,Freeze
+,,Yamhill,Wet,NoFreeze
+Pennsylvania,PA,,Wet,Freeze
+Rhode Island,RI,,Wet,Freeze
+South Carolina,SC,,Wet,NoFreeze
+South Dakota,SD,,Dry,Freeze
+Tennessee,TN,,Wet,NoFreeze
+Texas,TX,Anderson,Wet,NoFreeze
+,,Andrews,Dry,NoFreeze
+,,Angelina,Wet,NoFreeze
+,,Aransas,Wet,NoFreeze
+,,Archer,Wet,NoFreeze
+,,Armstrong,Dry,NoFreeze
+,,Atascosa,Dry,NoFreeze
+,,Austin,Wet,NoFreeze
+,,Bailey,Dry,NoFreeze
+,,Bandera,Dry,NoFreeze
+,,Bastrop,Wet,NoFreeze
+,,Baylor,Dry,NoFreeze
+,,Bee,Wet,NoFreeze
+,,Bell,Wet,NoFreeze
+,,Bexar,Dry,NoFreeze
+,,Blanco,Dry,NoFreeze
+,,Borden,Dry,NoFreeze
+,,Bosque,Wet,NoFreeze
+,,Bowie,Wet,NoFreeze
+,,Brazoria,Wet,NoFreeze
+,,Brazos,Wet,NoFreeze
+,,Brewster,Dry,NoFreeze
+,,Briscoe,Dry,NoFreeze
+,,Brooks,Dry,NoFreeze
+,,Brown,Dry,NoFreeze
+,,Burleson,Wet,NoFreeze
+,,Burnet,Dry,NoFreeze
+,,Caldwell,Wet,NoFreeze
+,,Calhoun,Wet,NoFreeze
+,,Callahan,Dry,NoFreeze
+,,Cameron,Wet,NoFreeze
+,,Camp,Wet,NoFreeze
+,,Carson,Dry,NoFreeze
+,,Cass,Wet,NoFreeze
+,,Castro,Dry,NoFreeze
+,,Chambers,Wet,NoFreeze
+,,Cherokee,Wet,NoFreeze
+,,Childress,Dry,NoFreeze
+,,Clay,Wet,NoFreeze
+,,Cochran,Dry,NoFreeze
+,,Coke,Dry,NoFreeze
+,,Coleman,Dry,NoFreeze
+,,Collin,Wet,NoFreeze
+,,Collingsworth,Dry,NoFreeze
+,,Colorado,Wet,NoFreeze
+,,Comal,Dry,NoFreeze
+,,Comanche,Dry,NoFreeze
+,,Concho,Dry,NoFreeze
+,,Cooke,Wet,NoFreeze
+,,Coryell,Wet,NoFreeze
+,,Cottle,Dry,NoFreeze
+,,Crane,Dry,NoFreeze
+,,Crockett,Dry,NoFreeze
+,,Crosby,Dry,NoFreeze
+,,Culberson,Dry,NoFreeze
+,,Dallam,Dry,NoFreeze
+,,Dallas,Wet,NoFreeze
+,,Dawson,Dry,NoFreeze
+,,De Witt,Wet,NoFreeze
+,,Deaf Smith,Dry,NoFreeze
+,,Delta,Wet,NoFreeze
+,,Denton,Wet,NoFreeze
+,,Dickens,Dry,NoFreeze
+,,Dimmit,Dry,NoFreeze
+,,Donley,Dry,NoFreeze
+,,Duval,Dry,NoFreeze
+,,Eastland,Dry,NoFreeze
+,,Ector,Dry,NoFreeze
+,,Edwards,Dry,NoFreeze
+,,El Paso,Dry,NoFreeze
+,,Ellis,Wet,NoFreeze
+,,Erath,Wet,NoFreeze
+,,Falls,Wet,NoFreeze
+,,Fannin,Wet,NoFreeze
+,,Fayette,Wet,NoFreeze
+,,Fisher,Dry,NoFreeze
+,,Floyd,Dry,NoFreeze
+,,Foard,Dry,NoFreeze
+,,Fort Bend,Wet,NoFreeze
+,,Franklin,Wet,NoFreeze
+,,Freestone,Wet,NoFreeze
+,,Frio,Dry,NoFreeze
+,,Gaines,Dry,NoFreeze
+,,Galveston,Wet,NoFreeze
+,,Garza,Dry,NoFreeze
+,,Gillespie,Dry,NoFreeze
+,,Glasscock,Dry,NoFreeze
+,,Goliad,Wet,NoFreeze
+,,Gonzales,Wet,NoFreeze
+,,Gray,Dry,NoFreeze
+,,Grayson,Wet,NoFreeze
+,,Gregg,Wet,NoFreeze
+,,Grimes,Wet,NoFreeze
+,,Guadalupe,Dry,NoFreeze,Wet,NoFreeze
+,,Hale,Dry,NoFreeze
+,,Hall,Dry,NoFreeze
+,,Hamilton,Dry,NoFreeze
+,,Hansford,Dry,NoFreeze
+,,Hardeman,Dry,NoFreeze
+,,Hardin,Wet,NoFreeze
+,,Harris,Wet,NoFreeze
+,,Harrison,Wet,NoFreeze
+,,Hartley,Dry,NoFreeze
+,,Haskell,Dry,NoFreeze
+,,Hays,Dry,NoFreeze
+,,Hemphill,Dry,NoFreeze
+,,Henderson,Wet,NoFreeze
+,,Hidalgo,Dry,NoFreeze
+,,Hill,Wet,NoFreeze
+,,Hockley,Dry,NoFreeze
+,,Hood,Wet,NoFreeze
+,,Hopkins,Wet,NoFreeze
+,,Houston,Wet,NoFreeze
+,,Howard,Dry,NoFreeze
+,,Hudspeth,Dry,NoFreeze
+,,Hunt,Wet,NoFreeze
+,,Hutchinson,Dry,NoFreeze
+,,Irion,Dry,NoFreeze
+,,Jack,Wet,NoFreeze
+,,Jackson,Wet,NoFreeze
+,,Jasper,Wet,NoFreeze
+,,Jeff Davis,Dry,NoFreeze
+,,Jefferson,Wet,NoFreeze
+,,Jim Hogg,Dry,NoFreeze
+,,Jim Wells,Dry,NoFreeze
+,,Johnson,Wet,NoFreeze
+,,Jones,Dry,NoFreeze
+,,Karnes,Wet,NoFreeze
+,,Kaufman,Wet,NoFreeze
+,,Kendall,Dry,NoFreeze
+,,Kenedy,Wet,NoFreeze
+,,Kent,Dry,NoFreeze
+,,Kerr,Dry,NoFreeze
+,,Kimble,Dry,NoFreeze
+,,King,Dry,NoFreeze
+,,Kinney,Dry,NoFreeze
+,,Kleberg,Wet,NoFreeze
+,,Knox,Dry,NoFreeze
+,,La Salle,Dry,NoFreeze
+,,Lamar,Wet,NoFreeze
+,,Lamb,Dry,NoFreeze
+,,Lampasas,Dry,NoFreeze
+,,Lavaca,Wet,NoFreeze
+,,Lee,Wet,NoFreeze
+,,Leon,Wet,NoFreeze
+,,Liberty,Wet,NoFreeze
+,,Limestone,Wet,NoFreeze
+,,Lipscomb,Dry,NoFreeze
+,,Live Oak,Dry,NoFreeze
+,,Llano,Dry,NoFreeze
+,,Loving,Dry,NoFreeze
+,,Lubbock,Dry,NoFreeze
+,,Lynn,Dry,NoFreeze
+,,Madison,Wet,NoFreeze
+,,Marion,Wet,NoFreeze
+,,Martin,Dry,NoFreeze
+,,Mason,Dry,NoFreeze
+,,Matagorda,Wet,NoFreeze
+,,Maverick,Dry,NoFreeze
+,,McCulloch,Dry,NoFreeze
+,,McLennan,Wet,NoFreeze
+,,McMullen,Dry,NoFreeze
+,,Medina,Dry,NoFreeze
+,,Menard,Dry,NoFreeze
+,,Midland,Dry,NoFreeze
+,,Milam,Wet,NoFreeze
+,,Mills,Dry,NoFreeze
+,,Mitchell,Dry,NoFreeze
+,,Montague,Wet,NoFreeze
+,,Montgomery,Wet,NoFreeze
+,,Moore,Dry,NoFreeze
+,,Morris,Wet,NoFreeze
+,,Motley,Dry,NoFreeze
+,,Nacogdoches,Wet,NoFreeze
+,,Navarro,Wet,NoFreeze
+,,Newton,Wet,NoFreeze
+,,Nolan,Dry,NoFreeze
+,,Nueces,Wet,NoFreeze
+,,Ochiltree,Dry,NoFreeze
+,,Oldham,Dry,NoFreeze
+,,Orange,Wet,NoFreeze
+,,Palo Pinto,Wet,NoFreeze
+,,Panola,Wet,NoFreeze
+,,Parker,Wet,NoFreeze
+,,Parmer,Dry,NoFreeze
+,,Pecos,Dry,NoFreeze
+,,Polk,Wet,NoFreeze
+,,Potter,Dry,NoFreeze
+,,Presidio,Dry,NoFreeze
+,,Rains,Wet,NoFreeze
+,,Randall,Dry,NoFreeze
+,,Reagan,Dry,NoFreeze
+,,Real,Dry,NoFreeze
+,,Red River,Wet,NoFreeze
+,,Reeves,Dry,NoFreeze
+,,Refugio,Wet,NoFreeze
+,,Roberts,Dry,NoFreeze
+,,Robertson,Wet,NoFreeze
+,,Rockwall,Wet,NoFreeze
+,,Runnels,Dry,NoFreeze
+,,Rusk,Wet,NoFreeze
+,,Sabine,Wet,NoFreeze
+,,San Augustine,Wet,NoFreeze
+,,San Jacinto,Wet,NoFreeze
+,,San Patricio,Wet,NoFreeze
+,,San Saba,Dry,NoFreeze
+,,Schleicher,Dry,NoFreeze
+,,Scurry,Dry,NoFreeze
+,,Shackelford,Dry,NoFreeze
+,,Shelby,Wet,NoFreeze
+,,Sherman,Dry,NoFreeze
+,,Smith,Wet,NoFreeze
+,,Somervell,Wet,NoFreeze
+,,Starr,Dry,NoFreeze
+,,Stephens,Dry,NoFreeze
+,,Sterling,Dry,NoFreeze
+,,Stonewall,Dry,NoFreeze
+,,Sutton,Dry,NoFreeze
+,,Swisher,Dry,NoFreeze
+,,Tarrant,Wet,NoFreeze
+,,Taylor,Dry,NoFreeze
+,,Terrell,Dry,NoFreeze
+,,Terry,Dry,NoFreeze
+,,Throckmorton,Dry,NoFreeze
+,,Titus,Wet,NoFreeze
+,,Tom Green,Dry,NoFreeze
+,,Travis,Dry,NoFreeze
+,,Trinity,Wet,NoFreeze
+,,Tyler,Wet,NoFreeze
+,,Upshur,Wet,NoFreeze
+,,Upton,Dry,NoFreeze
+,,Uvalde,Dry,NoFreeze
+,,Val Verde,Dry,NoFreeze
+,,Van Zandt,Wet,NoFreeze
+,,Victoria,Wet,NoFreeze
+,,Walker,Wet,NoFreeze
+,,Waller,Wet,NoFreeze
+,,Ward,Dry,NoFreeze
+,,Washington,Wet,NoFreeze
+,,Webb,Dry,NoFreeze
+,,Wharton,Wet,NoFreeze
+,,Wheeler,Dry,NoFreeze
+,,Wichita,Wet,NoFreeze
+,,Wilbarger,Dry,NoFreeze
+,,Willacy,Wet,NoFreeze
+,,Williamson,Wet,NoFreeze
+,,Wilson,Dry,NoFreeze
+,,Winkler,Dry,NoFreeze
+,,Wise,Wet,NoFreeze
+,,Wood,Wet,NoFreeze
+,,Yoakum,Dry,NoFreeze
+,,Young,Wet,NoFreeze
+,,Zapata,Dry,NoFreeze
+,,Zavala,Dry,NoFreeze
+Utah,UT,Box Elder,Dry,Freeze
+,,Cache,Dry,Freeze
+,,Carbon,Dry,Freeze
+,,Daggett,Dry,Freeze
+,,Davis,Dry,Freeze
+,,Duchesne,Dry,Freeze
+,,Emery,Dry,Freeze
+,,Garfield,Dry,Freeze
+,,Grand,Dry,Freeze
+,,Iron,Dry,Freeze
+,,Juab,Dry,Freeze
+,,Kane,Dry,Freeze
+,,Millard,Dry,Freeze
+,,Morgan,Dry,Freeze
+,,Piute,Dry,Freeze
+,,Rich,Dry,Freeze
+,,Salt Lake,Dry,Freeze
+,,San Juan,Dry,Freeze
+,,Sanpete,Dry,Freeze
+,,Sevier,Dry,Freeze
+,,Summit,Dry,Freeze
+,,Tooele,Dry,Freeze
+,,Uintah,Dry,Freeze
+,,Utah,Dry,Freeze
+,,Wasatch,Dry,Freeze
+,,Washington,Dry,NoFreeze
+,,Wayne,Dry,Freeze
+,,Weber,Dry,Freeze
+Vermont,VT,,Wet,Freeze
+Virginia,VA,,Wet,Freeze
+Washington,WA,Adams,Dry,Freeze
+,,Asotin,Dry,Freeze
+,,Benton,Dry,Freeze
+,,Chelan,Dry,Freeze
+,,Clallam,Wet,NoFreeze
+,,Clark,Wet,NoFreeze
+,,Columbia,Dry,Freeze
+,,Cowlitz,Wet,NoFreeze
+,,Douglas,Dry,Freeze
+,,Ferry,Dry,Freeze
+,,Franklin,Dry,Freeze
+,,Garfield,Dry,Freeze
+,,Grant,Dry,Freeze
+,,Grays Harbor,Wet,NoFreeze
+,,Island,Wet,NoFreeze
+,,Jefferson,Wet,NoFreeze
+,,King,Wet,NoFreeze
+,,Kitsap,Wet,NoFreeze
+,,Kittitas,Dry,Freeze
+,,Klickitat,Dry,Freeze
+,,Lewis,Wet,NoFreeze
+,,Lincoln,Dry,Freeze
+,,Mason,Wet,NoFreeze
+,,Okanogan,Dry,Freeze
+,,Pacific,Wet,NoFreeze
+,,Pend Oreille,Dry,Freeze
+,,Pierce,Wet,NoFreeze
+,,San Juan,Wet,NoFreeze
+,,Skagit,Wet,NoFreeze
+,,Skamania,Wet,NoFreeze
+,,Snohomish,Wet,NoFreeze
+,,Spokane,Dry,Freeze
+,,Stevens,Dry,Freeze
+,,Thurston,Wet,NoFreeze
+,,Wahkiakum,Wet,NoFreeze
+,,Walla Walla,Dry,Freeze
+,,Whatcom,Wet,NoFreeze
+,,Whitman,Dry,Freeze
+,,Yakima,Dry,Freeze
+West Virginia,WV,,Wet,Freeze
+Wisconsin,WI,,Wet,Freeze
+Wyoming,WY,,Dry,Freeze

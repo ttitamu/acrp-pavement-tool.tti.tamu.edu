@@ -1,0 +1,1 @@
+Surface distress includes the non-cracking type distresses which include weathering, raveling, patching, and roughness.  These are usually not load-related distresses

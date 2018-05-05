@@ -1,0 +1,66 @@
+filename,description,extraTags
+01A.Weather-L.Close.JPG,Weathering - Just starting
+01A.Weather-L.JPG,Weathering - Just starting
+01B.Weather-H2.Close.JPG,Weathering - High severity
+01BC.Weather-H2.JPG,Weathering - High severity
+01C.Ravel-M.jpg,Raveling - Medium severity
+01C.Ravel-M2.JPG,Raveling - Medium severity
+01D.Ravel-H.Close.JPG,Raveling - High severity
+01D.Ravel-H2.JPG,Raveling - High severity
+02A.Long-L.JPG,Longitudinal cracking - Low severity
+02A.Long.Close.JPG,Longitudinal cracking - Low severity
+02B.Long-M.Close.JPG,Longitudinal cracking - Medium severity
+02C.Long-H.Close.JPG,Longitudinal cracking - High severity
+04A.Long-Many.L3.jpg,Longitudinal crack - Low severity
+05A.Edge-L.JPG,Edge cracking - Low severity
+05B.Edge-M.JPG,Edge cracking - Medium severity
+05C.Edge-H.JPG,Edge cracking - High severity
+07A.Trans-L.jpg,Transverse cracking - Low severity
+07C.Trans-M.jpg,Transverse cracking - Medium severity
+07E.Trans-H.jpg,Transverse cracking - High severity
+09A.Block-L.Close.jpg,Block cracking - Low severity
+09A.Block-L2.JPG,Block cracking - Low severity
+09B.Block-M.jpg,Block cracking - Medium severity
+09B.Block-M2.JPG,Block cracking - Medium severity
+09C.Block-H4.jpg,Block cracking - High severity
+09C.Block-H5.JPG,Block cracking - High severity
+10A.Refl-L2.Close.JPG,Reflection cracking - Low severity
+10A.Refl-L2.JPG,Reflection cracking - Low severity
+10B.Refl-M.Close.JPG,Reflection cracking - Medium severity
+10B.Refl-M.JPG,Reflection cracking - Medium severity
+10B.Refl-M2.JPG,Reflection cracking - Medium severity
+11A.Allig-L.JPG,Fatigue cracking - Low severity,alligator
+11A.Allig-L2.Close.JPG,Fatigue cracking - Low severity,alligator
+11B.Allig-M.Close.JPG,Fatigue cracking - Medium severity,alligator
+11B.Allig-M2.Close.JPG,Fatigue cracking - Medium severity,alligator
+11B.Allig-M3.jpg,Fatigue cracking - Medium severity,alligator
+11C.Allig-H.Close.JPG,Fatigue cracking - High severity,alligator
+11C.Allig-H3.Allig-H3.JPG,Fatigue cracking - High severity,alligator
+13A.Patch-L.JPG,Patching - Low severity,patch
+13B.Patch-M.JPG,Patching - Medium severity,patch
+13B.Patch-M2.JPG,Patching - Medium severity,patch
+13C.Patch-H.JPG,Patching - High severity,patch
+14B.Patch-M.JPG,Patching - Medium severity,patch
+17A.Jt-None.Close.JPG,"Joint seal about 5-yrs old, no damage"
+17B.Jt-L.Close.jpg,Joint seal damage - Low severity,damage
+18A.Spall-L.JPG,Spalling - Low severity
+18B.Spall-M.jpg,Spalling - Medium severity
+18B.Spall-M2.JPG,Spalling - Medium severity
+18C.Spall-H.JPG,Spalling - High severity
+19A.Long-L.JPG,Mid-slab crack - Low severity
+19A.Long-L2.Close.JPG,Mid-slab crack - Low severity
+19B.Long-M2.Close.JPG,Mid-slab crack - Medium severity
+20A.Long-L.jpg,Mid-slab crack - Low severity
+20B.Long-M.Close.JPG,Mid-slab crack - Medium severity
+21A.Corner-L.jpg,Corner Break - Low severity,brk
+23C.Shat-H.JPG,Shattering - High severity,shatter
+24C.Shat-H.Close.JPG,Shattering - High severity,shatter
+24C.Shat-H.JPG,Shattering - High severity,shatter
+25A.Patch-L.Close.JPG,Patching - Low severity,patch
+25A.Patch-L.JPG,Patching - Low severity,patch
+25A.Patch-L2.JPG,Patching - Low severity,patch
+Alice.Apron.A-Fesco.Close.jpg,Joint Seal Damage - High Severity
+joint-seal-low.jpg,Joint Seal Damage - Low severity
+joint-seal-Medium.jpg,Joint Seal Damage - Medium severity
+joint-seal-high.jpg,Joint Seal Damage - High severity
+mid-panel-crack.jpg,Mid-Panel Cracking

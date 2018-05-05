@@ -1,0 +1,13 @@
+This distress occurs only on pavements having an asphalt
+or tar surface over a PCC slab. This category does not
+include reflection cracking from any other type of base (i.e.,
+cement stabilized, lime stabilized); such cracks are listed as
+longitudinal and transverse cracks. Joint reflection cracking
+is caused mainly by movement of the PCC slab beneath
+the AC surface because of thermal and moisture changes;
+it is not load related. However, traffic loading may cause
+a breakdown of the AC near the crack, resulting in spalling
+and FOD potential. If the pavement is fragmented along a
+crack, the crack is said to be spalled. A knowledge of slab
+dimensions beneath the AC surface will help to identify these
+cracks. 

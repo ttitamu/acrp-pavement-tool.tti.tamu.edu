@@ -1,0 +1,64 @@
+{
+  "pavement_repair_methods": {
+    "name": "Pavement Repair Methods",
+    "general": "This chapter describes various repair methods airports can use to correct airfield pavement distress. While these repair methods apply to specific types of distress and pavements, methods used should take into account the possibility of foreign object debris (FOD) damage to aircraft. FOD is defined as any object, live or not, located in an inappropriate location in the airport environment that has the capacity to injure airport or air carrier personnel and damage aircraft. FOD damage is any damage attributed to a foreign object that can be expressed in physical or economic terms, which may or may not downgrade the product’s safety or performance characteristics. Repair activities may leave potential FOD at or near the repair sites. All maintenance activities must include quality control to assure that repairs are conducted properly and clean-up activities undertaken to remove FOD potential. AC 150/5210-24 provides additional guidance to help manage debris hazards associated with maintenance activities. \\n\\nThe first step in rehabilitating or preparing a pavement for repair is to identify the causes of distress. Then, the proper procedures for repairing - which will not only correct the damage, but also prevent or retard its further occurrence - may be applied. Pavement repairs should be made as quickly as possible after the need for them arises to help ensure continued and safe aircraft operations. Airports should perform repairs at early stages of distress, even when the distresses are considered minor. A delay in repairing pavements may allow minor distresses to progress into major failures. While deterioration of pavements due to traffic and adverse weather conditions cannot be completely prevented, maintenance and repair programs can significantly reduce the rate of deterioration and minimize the damage. \\n\\nWeather conditions may limit repair measures undertaken to prevent further pavement damage. For example, rehabilitation by crack filling is more effective in cool and dry weather conditions, whereas pothole patches, seal coats, and other surface treatments require warm, dry weather for best results. This does not mean that resurfacing work cannot be performed under cold and damp conditions or that crack filling cannot be done in warm weather. Rather, these repairs just require much greater care when made during such periods. The procedures in Appendix A list the weather and temperature limitations for each repair procedure. When emergency pavement repairs are required and weather conditions exceed the procedure recommendations, the initial repair will be temporary and replaced as soon as weather conditions permit.",
+    "pavement_type": [
+      {
+        "name": "Repair Methods for Flexible Pavements",
+        "general": "The selection of a repair method for flexible pavements will depend on the type of damage; climate; experience; and availability of materials among others.",
+        "type": [
+          {
+            "name": "Crack Repair",
+            "description": "Cracks take many forms, such as longitudinal, transverse, block, alligator, slippage, and reflection cracks. For some, such as longitudinal and transverse cracks, simple crack filling may be the proper corrective action. Refer to Appendix A1 and Figure A-1 for crack repair in flexible pavement."
+          },
+          {
+            "name": "Partial and full depth repair",
+            "description": "Some cracks may require partial or full depth repair of the damaged pavement. Partial depth repairs may be an alternative for pavements greater than 5 inches (13 cm) thick. Full depth repairs are typically required for pavement less than 5 inches (13 cm) thick. Refer to Appendix A2 and Figure A-2 for partial depth crack repair in flexible pavement. Refer to Appendix A3 and Figure A-3 for full depth crack repair in flexible pavement."
+          }
+        ]
+      },
+      {
+        "name": "Repair methods for rigid pavements",
+        "general": "The selection of a repair method for rigid pavements will depend on the type of damage, climate, experience, and availability of materials among others. Table 6-2 summarizes some common problems and potential repair methods. Refer to Appendix A4 and Figure A-4 for a plan view of typical rigid pavement full depth repairs including a corner break; partial slab replacement; and full depth slab replacement.",
+        "type": [
+          {
+            "name": "Crack repair and joint sealing",
+            "description": "Sealing cracks prevents surface moisture from entering the pavement structure. This type of repair may require establishing a sealant reservoir. A concrete saw is preferable to router equipment because a router can cause micro-cracks in the adjacent concrete pavement. Shrinkage cracks are non-structural and non-propagating cracks that are cosmetic and typically do not require repairs. \\n\\nRefer to AC 150/5370-10, Items P-604 Compression Joint Seals for Concrete Pavements and P-605, Joint Sealants for Concrete Pavements for information and guidance on joint and crack sealants. A silicone sealant per ASTM D5893 can be used for edge joints between flexible and rigid pavements. Silicone should not be used to seal flexible pavement to flexible pavement joints."
+          },
+          {
+            "name": "Full depth repair",
+            "description": "Full depth rigid pavement repair requires the complete removal of the damaged concrete pavement. The base and sub base material may also require repair if they are damaged during removal of the pavement or by water infiltration and subsequent pumping action.",
+            "subtype": [
+              {
+                "name": "Corner break",
+                "description": "A corner break is a crack that intersects the joints of a slab at a distance less than or equal to one-half the slab length on both sides of the slab, measured from the corner of the slab. The crack extends vertically through the entire slab thickness. Load repetition combined with loss of support and curling stresses cause corner breaks. Refer to Appendix A5 and Figure A-5 for full depth repair of a corner break."
+              },
+              {
+                "name": "Partial slab replacement",
+                "description": "Refer to Appendix A6 and Figure A-6 for partial slab replacement procedures."
+              },
+              {
+                "name": "Full slab replacement.",
+                "description": "Refer to Appendix A7 and Figure A-7 for full slab replacement procedures."
+              }
+            ]
+          },
+          {
+            "name": "Partial depth repair",
+            "description": "",
+            "subtype": [
+              {
+                "name": "Joint spall repair",
+                "description": "Joint spalling is the breakdown of the slab edges within 2 feet (0.6 m) of the side of the joint. A joint spall usually does not extend vertically through the slab, ntersecting the joint at an angle. Refer to Appendix A8 and Figure A-8 for joint spall repair procedures."
+              }
+            ]
+          },
+          {
+            "name": "Temporary patching of rigid pavements",
+            "description": "Broken rigid pavement areas can be patched with flexible pavement as an interim measure. Full- depth HMA repairs will interrupt the structural integrity of the rigid pavement and may lead to additional failures. Such full-depth repairs are considered temporary, and corrective long-term repairs must be scheduled. \n\nThe minimum depth of repair for portland cement concrete should be 2 inches (5 cm). Repairs made thinner than 2 inches (5 cm) usually deteriorate quickly on an airfield pavement. (Most distresses needing repair will extend at least 2 inches (5 cm) into the pavement.) Rigid pavement repairs that are thinner than 2 inches (5 cm) may benefit from the use of epoxy materials."
+          }
+        ]
+      }
+    ]
+  }
+}

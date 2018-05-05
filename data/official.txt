@@ -1,0 +1,118 @@
+“Official” AC Distress Description
+Starting to weather
+Definitely Weathering
+Starting to ravel
+Definitely raveling
+Few longitudinal cracks, Low
+Few longitudinal cracks, Medium
+A few longitudinal cracks, High
+Many longitudinal cracks, Low
+Many longitudinal cracks, Medium
+Many longitudinal cracks, High
+Few edge cracks, Low
+Few edge cracks, Medium
+Few edge cracks, High
+Transverse cracks, 50 ft apart, Low
+Transverse cracks, 50 ft apart, Medium
+Transverse cracks, 50 ft apart, High
+Transverse cracks, 20 ft apart, Low
+Transverse cracks, 20 ft apart, Medium
+Transverse cracks, 20 ft apart, High
+Block cracking Low
+Block cracking Medium
+Block cracking High
+Reflection cracking Low
+Reflection cracking Medium
+Reflection cracking High
+Fatigue crack, 10% of area, Low
+Fatigue crack, 10% of area,  Medium
+Fatigue crack, 10% of area, High
+Fatigue crack, 30% of area, Low
+Fatigue crack, 30% of area, Medium
+Fatigue crack, 30% of area, High
+Patching, 10% area, Low
+Patching, 10% area, Medium
+Patching, 10% area, High
+Patching, 30% area, Low
+Patching, 30% area, Medium
+Patching, 30% area, High
+Rough,  Long wave swells
+Rough, Many long wave swells
+Rough, Many short wave bumps
+ 
+“Official” AC Treatments
+Do Nothing
+Crack seal/ fill
+Rejuvenator
+Fog/Coal tar seal
+Slurry/micro
+Chip/cape seal
+Asphalt overlay/Mill+ overlay
+Patch/Reconstruct area
+Rehab/Reconstruct
+ 
+ 
+“Official” PCC Distress Description
+Jt Seal  5 Year Old, Good Condition
+Joint seal damage Low sev
+Joint seal damage Medium sev
+Joint seal damage High sev
+Joint/corner spall Low sev
+Joint/corner spall Medium sev
+Joint/corner spall High sev
+Mid-panel crack 20% slabs Low sev
+Mid-panel crack 20% slabs Medium sev
+Mid-panel crack 20% slab High sev
+Mid-panel crack 40%  slab Low sev
+Mid-panel crack 40% slabs Medium sev
+Mid-panel crack 40% slab High sev
+Corner break 10% slabs Low sev
+Corner break 10% slabs Medium sev
+Corner break 10% slabs High sev
+Corner break 30% slabs Low sev
+Corner break 30% slabs Medium sev
+Corner break 30% slabs High sev
+10% Shatter slab Low sev
+10% Shatter slab  Medium sev
+10% Shatter slab High sev
+30% Shatter slab Low sev
+30% Shatter slab Medium sev
+30% Shatter slab High sev
+30% Patch Low sev
+30% Patch Medium sev
+30% Patch High sev
+50% Patch Low sev
+50% Patch Medium sev
+50% Patch High sev
+10% slabs Fault Low sev
+10% slabs Fault Medium sev
+10% slabs Fault High sev
+30% slabs Fault Low sev
+30% slabs Fault Medium sev
+30% slabs Fault High sev
+ 
+“Official” PCC Treatments
+Treatment
+Do nothing
+Crack/ joint seal
+Partial depth repair
+Full-depth repair (local)
+Crossstitching/Dowelbar retrofit
+Slab stabilization/Jacking/Underseal
+PCC/AC overlay
+Grinding/Grooving
+Rehab/Reconstruct
+ 
+ 
+Tom Freeman
+Program Manager, Pavement Management
+Materials Division
+Texas A&M Transportation Institute
+
+405 E Spence 
+3135 TAMU | College Station, TX 77843-3135
+Tel 979.845.9923 | Fax 979.845.0278
+http://tti.tamu.edu
+ 
+email slogan slant
+ 

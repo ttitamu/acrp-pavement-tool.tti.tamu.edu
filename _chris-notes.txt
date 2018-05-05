@@ -1,0 +1,148 @@
+=============================
+Data files used by website
+============================
+
+data/asphalt.csv comes from exporting of the "Treatment Assignments-AC" worksheet in archive/20150720/Decision.Tree.ALL.xlsx
+data/asphalt.json comes from parsing asphalt.csv
+
+
+data/concrete.csv comes from exporting of the "Treatment Assignments-PCC" worksheet in archive/20150720/Decision.Tree.ALL.xlsx
+data/concrete.json comes from parsing concrete.csv
+
+
+(FYI, there's a newer version of Decision.Tree.ALL.xlsx in the archive/20150902 folder).
+
+
+AC = Asphalt Cement
+PCC = Portland Cement Concrete
+
+
+Notice how those Excel worksheets are organized/grouped horizontally by climate (wet/dry + freeze/nofreeze) and vertically by category(National, Regional, Local, Basic).
+
+
+These CSV files were parsed into JSON in order to flatten out that grouping
+
+
+=================================================================
+Avoiding terminology confusion with "scenario", "guru", "distress"
+=================================================================
+
+Tom Freeman refers to these distress+treatment pairs as "combinations". They're more than pairs, because of the rest of the associated fields used to drill down to them.
+
+In my JavaScript code, I called these "scenarios". The array called TTI.scenarios collects instances of objects created by the constructor TTI.Scenario(spec).
+
+
+Since our phone call demo of the webpage, I renamed the "+ New Scenario" button to "+ New Distress" to avoid confusion on the use of "scenario".
+
+In the code, each click of "+ New Distress" creates a new instance of TTI.Guru(spec). The guru is the object which helps you drill you down to your single TTI.Scenario object which is relevant to this user's airport distress.
+
+Depending on how many distresses the user intitiates, each guru will be collected in an array called TTI.gurus.
+
+
+Each of the TTI.Scenario objects has this type of layout:
+
+{
+    "row": 5,
+    "column": 2,
+    "distressDesc": "Joint seal 5 years, still GOOD",
+    "wetDry": "wet",
+    "freezeNoFreeze": "freeze",
+    "category": "National",
+    "severity": false,
+    "amount": false,
+    "distressType": "Joint seal 5 years, still GOOD",
+    "treatment": {
+        "accept": "Do Nothing",
+        "acceptCell": "5B",
+        "best": "Do Nothing",
+        "bestCell": "5C"
+    },
+    "surfaceType": "concrete"
+}
+
+You'll notice a few extra fields I used to make sure I parsed the spreadsheet correctly:
+
+row,
+column,
+acceptCell,
+bestCell  
+
+FYI, best == "Recommended" in the UI.
+
+
+
+==============================================================================
+Splitting distress types into 3 fields, Inconsistent naming of distress types
+=============================================================================
+In the "Treatment Assignments-AC" and "Treatment Assignments-PCC" worksheets, I further parsed column A into 3 separate fields when I could. This was to avoid too many possibilities in the dropdown.
+
+So Column A parses down to:
+
+distressType  (ex: Mid-Panel Crack)
+amount        (ex: 40% slabs)
+severity      (ex: Hi sev)
+
+
+Sometimes that information wasn't available. That doesn't cause problems, though. It's just one fewer value in a drop down to clarify the matching records.
+
+There are also inconsistencies between the original spelling/capitalization/abbreviation of "severity" in the Spreadsheet. You'll see a JavaScript function called cleanUp() which handles these during the parsing.
+
+
+
+===============================================================================
+TODO: Hierarchy of treatments, and collapsing down to the fewest relevant treatments
+===============================================================================
+
+The worksheets called PCC-Hierarchy and AC Hierarchy in archive/20150902/Decision.Tree.ALL.xlsx provide tie-breaker information for when multiple treatments are recommended.
+
+Don't use the hierarchies in archive/20150720/Decision.Tree.ALL.xlsx, though. They have errors in symmetry.
+
+Some of these combinations result in a Both, meaning perform both treatments. In those cases, the PCI chart image and option to use a TCO estimate should be given for both treatments.
+
+=========================
+TODO: PCI chart images
+=========================
+
+In archive/20150902/Benefit\ Pictures folder, there are a bunch of PNG images which will tie back to each treatment.
+
+
+============================
+Treatment TCO estimator
+==============================
+
+In the PCI.xlsx spreadsheet, the worksheets labeled "AC Costs" and "PCC Costs" are used to determine TCO estimate. The user will provide length & width in feet. The rest of the information is supplied by the earlier user input regarding distress type, treatment.
+
+These are exported as data/ACCosts.csv and data/PCCCosts.csv
+
+Then they were parsed to JSON in data/asphalt-costs.json and data/concrete-costs.json
+
+These get imported in to the TTI.costs array and instantiated with the TTI.Cost constructor.
+
+** The function TTI.lookupUnitCost(surfaceType,distress,treatment) found in bootup.js will return the associated unitCost (cost per square yard) associated for its inputs.
+
+It uses TTI.tagify to generate a tag array for both treatment and distress descriptions found in both the scenarios and costs, to drill down to the most relevant TTI.Cost object based on tag intersections. Then I pick out the unitCost value from that TTI.Cost object
+
+
+** Finally, the function TTI.computeTCO(lft,wft,costPerSquareYard) found in bootup.js gives the final TCO dollar amount.
+
+
+======================================
+TODO: map State and County to Climate
+======================================
+
+Using "Climatic Zone State County.TJF.xlsx" replace the sticky dropdowns for "Wet/Dry" and "Freeze/No Freeze" with State/County dropdowns which will map to those values.
+
+
+==========================================
+TODO: example distress images
+============================================
+
+In docs/Survey\ Pictures.zip, there are a bunch of PNG images which tie back to each distress. 
+
+
+
+
+
+
+
+

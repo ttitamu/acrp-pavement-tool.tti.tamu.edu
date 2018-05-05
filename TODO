@@ -1,0 +1,46 @@
+Tool
+R2 - 	In the tool, there should be a way to delete a distress element in case the user makes an 	error or the distress is no longer an issue
+R2 - 	The CHECK box to use the ‘Ballpark” estimator should be more visible (larger).
+R3 - 	On a positive note, the tool is easy to use. I have difficulty however with the			 recommendations that are generated. I do not believe that the research effort was 	technically sound as I mentioned during meetings.
+R4 - 	I like the tool. It is user friendly and provides what I expected.
+There is no explanation of the benefit/cost number or relative benefit number. I 	recommend having a description when you hover like there is on other components. 
+When I added more than two distresses it only shows me the recommended treatments 	for two of them. I am not sure if this is a system glitch or if it is intended to be that way 	because one of the distresses is controlling. I used mid panel cracking, joint spall, and 	corner breaks. 
+There may be an issue with the ballpark cost estimation. If I indicate medium joint issues 	on a 3000’ x 100’ runway is says my cost to seal is $975. What percentage of the total 	repair is being assumed? A similar issue arises for spall repair. 
+The view/print/save button was not working for me. I was using surface tablet. Not sure 	if that makes a difference.
+R6 - 	“Your Facility”  - It is great that the airport classification pops up, but it isn’t long enough 	for me to read and determine which classification I should select.  I can’t click or hover 
+
+	anywhere to read the info for longer periods of time.  The headers for the classifications 	should match the pull down options.  Pull downs should be in order based on airport 	size, more like the pop up window order.
+You can “Add” a distress.  It would be helpful to be able to remove a distress instead of 	starting completely over too.  If I select a distress by mistake, I can’t undo.  Just start 	over.
+The italic “info” word included within the distress type isn’t obvious that it opens a pop 	up window, is difficult to maneuver around this pop open program feature when using 	the page, and isn’t consistent with the way information pops open for the FAA Airport 	Classification tab.  Sometimes these pop ups won’t go away either.  Even if I scroll or 	select another distress.  Hmmmm.
+In general, it is confusing that the same photos are used to show the different 	percentages of distress.  I expected the photo for the lesser quantity to show fewer of 	the particular distress, not the exact same as the higher distressed quantity.    Maybe 	the photos showing the severity of the distress should be separated from the quantity 	of that distress observed?
+	Program lets me enter the exact same distress extent and severity more than once.
+For AC -
+Longitudinal and Transverse cracking are individually identified but the definitions for both pop up when hovering over “info”.  Delete info as appropriate.
+Raveling “Starting to Ravel” and “Definitely Weathering” shows a picture of “Weathering – Just starting”
+Asphalt patching photos show PCC patches for 10% and 30% area, low.
+Transverse cracks photos for 20 and 50 ft apart seem confusing.  Other distresses are present which may confuse users.
+Labeled as Alligator on left, but then as fatigue in the right column.  This may confuse the user?
+Nice block cracking photos!!!
+High severity edge cracking photo seems to be focused on a longitudinal and transverse joint failure.
+Nice low and medium severity reflection cracking.  High reflection cracking are the wrong photos.
+For PCC -
+Joint seal damage:  The good condition photo is difficult to understand.  Too far away from joint to see joint seal condition.
+
+
+Joint/Corner Spall definition seems to focus on corner spalls.  I missed that this was also 	for joint spalls.  Duh, if I missed it what will less experienced pavement people do?
+Mid-panel – No definition provided.   20% High Severity shows wrong photos
+Corner break – Medium and High Severity shows wrong photos.  Low severity shows multiple distresses.  Simplify low severity photo or use arrow to highlight distress being illustrated.
+Shattered Slab – Low and Medium use wrong photos
+Patching shows asphalt patches.
+Faulting – ALL wrong photos.
+
+As I add more distresses (transverse and then longitudinal), is the repair 	recommendation for the last distress or all of the distresses?  Not clear.   (After further 	button pushing, the text referred to transverse cracking but I had longitudinal and 	transverse cracking.  Maybe this is the treatment for both types of cracking?  But if I add 	alligator cracking then a new treatment recommendation box pops up.  Now I have very 	different options.)  I can see this being very confusing to the users.  Maybe they will only 	believe crack seal is appropriate when multiple distresses are present that require more 	significant repair..  Treat least expensive problem and walk away?  Then I add block 	cracking and poof, the other distresses already on this list disappear.  I can see where 	this presentation style would be confusing to the novice pavement person.
+
+
+
+
+Printing – 
+Print out or pdf view should identify that this information is based on the ACRP 09-11 research.  It should also include the basic info provided to start the project such as state and county.
+Sometimes the view/print button doesn’t work.  
+If I pick many distresses, the info doesn’t show up on the next page.  It just falls off of the pdf preview.
+I like that I can click on the graph if I want to see it in more detail.  How do I print the graph in the report?  Why doesn’t the printout/pdf view look similar to the step by step web instructions included in the report?  The printout looks extremely engineer like and not management friendly at all.
